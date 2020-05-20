@@ -22,7 +22,7 @@ function increment(a) {
  }
 
 function makeInt(n) {
-  return (n = parseInt("n", 10))
+  parseInt('0', 10)
 }
 
 function preserveDecimal(n) {
