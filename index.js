@@ -22,9 +22,9 @@ function increment(a) {
  }
 
 function makeInt(n) {
-  if (string === "n") {
-    return parseInt("n", 10)
-  } else if (string === "0") {
-    return parseInt ("0", 10)
+  if (n === "a") {
+    return parseInt("a", 10)
+  } else if (n === "0") {
+    return parseInt ("0x2328", 10)
   }
 }
