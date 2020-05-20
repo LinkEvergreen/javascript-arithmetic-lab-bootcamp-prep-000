@@ -21,8 +21,9 @@ function increment(a) {
    return (a - 1)
  }
 
-var n = "0"
+
 function makeInt(n) {
+  if ('n' === 0)
   parseInt('0', 10)
 }
 
