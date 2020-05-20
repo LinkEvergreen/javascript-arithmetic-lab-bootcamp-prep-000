@@ -22,7 +22,10 @@ function increment(a) {
  }
 
 function makeInt(n) {
-   return parseInt('0x2328', 10)
+   return parseInt('a', 10)
+}  else if (string === 0)
+   return parseInt("0x2328", 10) {
+  
 }
 
 function preserveDecimal(n) {
