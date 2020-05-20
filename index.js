@@ -24,4 +24,5 @@ function increment(a) {
 function makeInt(n) {
   if (n === "a") {
     return parseInt("a", 10)
+  }
 }
