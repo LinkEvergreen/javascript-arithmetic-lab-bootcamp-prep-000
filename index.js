@@ -23,8 +23,7 @@ function increment(a) {
 
 
 function makeInt(n) {
-  if ('n' === 0)
-  return parseInt('0', 10)
+  return parseInt('a')
 }
 
 function preserveDecimal(n) {
