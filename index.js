@@ -22,7 +22,7 @@ function increment(a) {
  }
 
 function makeInt(n) {
-  if (n === "a") {
+  if (n === "5") {
     return parseInt("5", 10)
   }
 }
