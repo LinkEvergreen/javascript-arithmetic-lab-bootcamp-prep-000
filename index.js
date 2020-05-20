@@ -24,10 +24,10 @@ function increment(a) {
 
 function makeInt(n) {
   if ('n' === 0)
-  parseInt('0', 10)
+  return parseInt('0', 10)
 }
 
 function preserveDecimal(n) {
-  if ('n' === 0)
-  parseFloat("2.22")
+  if ('n' === 0) 
+  return parseFloat("2.22")
 }
