@@ -21,8 +21,4 @@ function increment(a) {
    return (a - 1)
  }
 
-function makeInt(n) {
-  return parseInt("a", 10) {
-} else if (string === 0) {
-  return parseInt("0x2328", 10)
-}
+
