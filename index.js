@@ -26,4 +26,3 @@ function makeInt(n) {
    return parseInt('0', 10)
    return parseInt("a", 10)
 }
-
