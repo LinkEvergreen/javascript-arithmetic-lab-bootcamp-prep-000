@@ -24,3 +24,7 @@ function increment(a) {
 function makeInt(n) {
   return (n = parseInt("n", 10))
 }
+
+function preserveDecimal(n) {
+  parseFloat("2.22")
+}
