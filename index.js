@@ -23,4 +23,7 @@ function increment(a) {
 
 function makeInt(n) {
    return parseInt('0x2328', 10)
+   return parseInt('0', 10)
+   return parseInt("a", 10)
 }
+
